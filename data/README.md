@@ -8,6 +8,6 @@
    描述：北京的开源地图数据(point of interest)
 
 3. beijing/chingpin/fangshan.geojson
-   来源：天地图
+   来源：[天地图](https://cloudcenter.tianditu.gov.cn/administrativeDivision)
    描述：经纬度表示的行政区范围多边形
 

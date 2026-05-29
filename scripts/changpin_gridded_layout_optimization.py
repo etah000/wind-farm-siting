@@ -28,7 +28,7 @@ except ImportError:
     print("❌ 错误: FLORIS 未安装")
     exit(1)
 
-from boundary_trimmer import get_allowed_area, plot_shapely_geometry
+from scripts.exclusion.boundary_trimmer import get_allowed_area, plot_shapely_geometry
 from shapely.affinity import translate as shapely_translate
 
 if __name__ == '__main__':

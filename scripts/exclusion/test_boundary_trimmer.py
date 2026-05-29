@@ -6,7 +6,7 @@ from pathlib import Path
 import sys
 import matplotlib.pyplot as plt
 
-from boundary_trimmer import get_allowed_area, plot_shapely_geometry
+from scripts.exclusion.boundary_trimmer import get_allowed_area, plot_shapely_geometry
 
 
 def main():
